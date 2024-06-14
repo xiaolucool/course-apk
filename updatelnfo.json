@@ -1,10 +1,10 @@
 {
-  "describe": "1. 修复已知问题<br>2. 增加显示版本号功能",
+  "describe": "1. 修复已知问题<br>2. 修复切换周后返回周标题不变问题<br>3. 修复切换周与数据切换不同步问题",
   "edition_url": "https://raw.githubusercontent.com/xiaolucool/course-apk/main/course-1.0.4.apk",
   "edition_force": 0,
   "package_type": 0,
   "edition_issue": 1,
-  "edition_number": 104,
-  "edition_name": "1.0.4",
+  "edition_number": 105,
+  "edition_name": "1.0.5",
   "edition_silence": 0
 }

@@ -1,10 +1,10 @@
 {
-  "describe": "1. 修复已知问题<br>2. 修复切换周后返回周标题不变问题<br>3. 修复切换周与数据切换不同步问题",
+  "describe": "1. 优化about页面<br>2. 新增更新日志页面<br>3. 优化打开APP更新弹窗逻辑",
   "edition_url": "https://raw.githubusercontent.com/xiaolucool/course-apk/main/course-1.0.5.apk",
   "edition_force": 0,
   "package_type": 0,
   "edition_issue": 1,
-  "edition_number": 105,
-  "edition_name": "1.0.5",
+  "edition_number": 106,
+  "edition_name": "1.0.6",
   "edition_silence": 0
 }

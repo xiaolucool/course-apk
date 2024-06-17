@@ -1,6 +1,6 @@
 {
-  "describe": "1. 优化about页面<br>2. 新增更新日志页面<br>3. 优化打开APP更新弹窗逻辑",
-  "edition_url": "https://raw.githubusercontent.com/xiaolucool/course-apk/main/course-1.0.5.apk",
+  "describe": "1. 更改顶部状态栏字体颜色<br>2. 更改顶部状态栏字体颜色",
+  "edition_url": "https://raw.githubusercontent.com/xiaolucool/course-apk/main/course-1.0.7.apk",
   "edition_force": 0,
   "package_type": 0,
   "edition_issue": 1,

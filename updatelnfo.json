@@ -1,5 +1,5 @@
 {
-  "describe": "1. 新增首页<br>2. 新增主题功能<br>3. 修复APP下页面拉伸",
+  "describe": "1. 修复首页轮播图不显示<br>2. 修复首页路由切换动画",
   "edition_url": "https://raw.githubusercontent.com/xiaolucool/course-apk/main/course-1.0.9.apk",
   "edition_force": 0,
   "package_type": 0,

@@ -1,5 +1,5 @@
 {
-  "describe": "1. 更改顶部状态栏字体颜色<br>2. 修复页面顶部益处",
+  "describe": "1. 新增首页<br>2. 新增主题功能<br>3. 修复APP下页面拉伸",
   "edition_url": "https://raw.githubusercontent.com/xiaolucool/course-apk/main/course-1.0.7.apk",
   "edition_force": 0,
   "package_type": 0,
